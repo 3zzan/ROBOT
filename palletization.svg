@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Pallet -->
+    <rect x="50" y="250" width="200" height="20" fill="#8B4513"/>
+    
+    <!-- Boxes -->
+    <rect x="70" y="200" width="40" height="40" fill="#666666"/>
+    <rect x="120" y="200" width="40" height="40" fill="#666666"/>
+    <rect x="170" y="200" width="40" height="40" fill="#666666"/>
+    
+    <!-- Robot Arm -->
+    <path d="M300 150 L350 200 L380 250" stroke="#FF6B00" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="350" cy="200" r="8" fill="#FF6B00"/>
+    
+    <!-- Box being moved -->
+    <rect x="280" y="130" width="40" height="40" fill="#FF6B00"/>
+</svg>

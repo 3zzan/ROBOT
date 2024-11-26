@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Assembly Table -->
+    <rect x="50" y="200" width="300" height="20" fill="#333333"/>
+    
+    <!-- Parts -->
+    <circle cx="100" cy="180" r="15" fill="#666666"/>
+    <rect x="150" y="165" width="30" height="30" fill="#666666"/>
+    <path d="M220 165 L250 195 L220 195 Z" fill="#666666"/>
+    
+    <!-- Robot Arm -->
+    <path d="M300 150 L350 100 L380 150" stroke="#FF6B00" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="350" cy="100" r="8" fill="#FF6B00"/>
+    
+    <!-- Part being assembled -->
+    <circle cx="300" cy="130" r="15" fill="#FF6B00"/>
+    
+    <!-- Assembly Guidelines -->
+    <line x1="100" y1="160" x2="100" y2="140" stroke="#FF6B00" stroke-width="2" stroke-dasharray="4"/>
+    <line x1="165" y1="160" x2="165" y2="140" stroke="#FF6B00" stroke-width="2" stroke-dasharray="4"/>
+    <line x1="235" y1="160" x2="235" y2="140" stroke="#FF6B00" stroke-width="2" stroke-dasharray="4"/>
+</svg>
